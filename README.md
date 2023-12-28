@@ -63,8 +63,8 @@ Install this tool first before running the script
 ----------
 
 ```bash
-git clone https://github.com/ImYanXiao/Elaina-MultiDevice
-cd Elaina-MultiDevice
+git clone https://github.com/arknDEV/Terakomari---md
+cd Terakomari
 npm install
 npm update
 ```
